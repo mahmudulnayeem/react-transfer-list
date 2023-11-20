@@ -8,6 +8,17 @@ export const metadata: Metadata = {
   title: "React transfer list",
   description:
     "The Transfer List project provides a versatile and customizable solution for managing and transferring items between two lists. This interactive and user-friendly component is designed to streamline data transfer operations within your web application.",
+  keywords: [
+    "react",
+    "transferlist",
+    "react-transferlist",
+    "transferlist-react",
+    "transferlist-reactjs",
+    "nextjs-transferlist",
+    "nextjs-transferlist-react",
+    "nextjs-transferlist-reactjs",
+    "next",
+  ],
 };
 
 export default function RootLayout({
