@@ -19,11 +19,16 @@ export const metadata: Metadata = {
     "nextjs-transferlist-reactjs",
     "next",
   ],
+  metadataBase: new URL("https://transferlist-react.vercel.app/"),
+  alternates: {
+    canonical: "/",
+    languages: {
+      "en-US": "/en-US",
+      "de-DE": "/de-DE",
+    },
+  },
   openGraph: {
-    type: "website",
-    locale: "en_IE",
-    url: "https://react-transfer-list-plum.vercel.app/",
-    images: ["/public/preview.png"],
+    images: "/opengraph-image.png",
   },
 };
 
