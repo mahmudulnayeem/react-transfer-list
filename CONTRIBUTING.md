@@ -8,8 +8,8 @@ Welcome! We appreciate your interest in contributing to Transfer List . Your con
 2. **Clone your forked repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/transfer-list.git
-   cd transfer-list
+   git clone https://github.com/your-username/react-transfer-list.git
+   cd react-transfer-list
 
    ```
 
