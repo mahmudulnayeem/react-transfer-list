@@ -19,6 +19,11 @@ export const metadata: Metadata = {
     "nextjs-transferlist-reactjs",
     "next",
   ],
+  openGraph: {
+    type: "website",
+    locale: "en_IE",
+    url: "https://react-transfer-list-plum.vercel.app/",
+  },
 };
 
 export default function RootLayout({
