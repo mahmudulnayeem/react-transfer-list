@@ -23,6 +23,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_IE",
     url: "https://react-transfer-list-plum.vercel.app/",
+    images: ["/public/preview.png"],
   },
 };
 
