@@ -16,7 +16,7 @@ This project is designed to manage and facilitate the transfer of items between 
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/mahmudulnayeem/react-transfer-list.git
    ```
 2. Install NPM packages
    ```sh
@@ -33,4 +33,4 @@ This project is designed to manage and facilitate the transfer of items between 
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please read the [Contribution Guide](./CONTRIBUTING.md) for more details.
+Contributions make the open-source community such an amazing place to learn, inspire, and create. I would greatly appreciate any contributions you make. Please read the [Contribution Guide](./CONTRIBUTING.md) for more details.
