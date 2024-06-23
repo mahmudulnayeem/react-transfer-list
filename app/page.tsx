@@ -100,7 +100,7 @@ export default function Home() {
         </TransferButton>
         <Link
           target="_blank"
-          className="underline mt-10 text-lg"
+          className="underline sm:mt-10 text-lg"
           href="https://github.com/mahmudulnayeem/react-transfer-list"
         >
           Edit on GitHub 🚀
