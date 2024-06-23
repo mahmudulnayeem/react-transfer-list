@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 import { useState } from "react";
 import ListBox from "./_component/ListBox";
 import TransferButton from "./_component/TransferButton";
@@ -97,7 +98,15 @@ export default function Home() {
         >
           Transfer right ➡
         </TransferButton>
+        <Link
+          target="_blank"
+          className="underline mt-10 text-lg"
+          href="https://github.com/mahmudulnayeem/react-transfer-list"
+        >
+          Edit on GitHub 🚀
+        </Link>
       </div>
+
       <ListBox
         items={list2}
         boxNumber={2}
